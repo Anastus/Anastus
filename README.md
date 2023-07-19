@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anastus
-- 👀 I’m interested in ... creating an problem solving environment, soon to become a multi-million dollar company
-- 🌱 I’m currently learning ... Full Stack Development
-- 💞️ I’m looking to collaborate on ... Full Stack Development - MERN and on Front-End Wed Development
-- 📫 How to reach me ... johnanastus25@gmail.com
+- 👋 Hi, I’m @Anastus_John
+- 👀 I’m interested in working ---> Web Development, UI Development
+- 🌱 I’m currently learning ---> FRONT-END REACT JS
+- 💞️ I’m looking to collaborate -----> on Frontend Web Development and UI Development
+- 📫 How to reach me ----> johnanastus25@gmail.com
 
 <!---
 Anastus/Anastus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
